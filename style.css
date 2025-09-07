@@ -8,3 +8,7 @@
     background-color: #422AD5;
     color: white;
 }
+
+.icons a.hover{
+   background-color: var(--color);
+}
